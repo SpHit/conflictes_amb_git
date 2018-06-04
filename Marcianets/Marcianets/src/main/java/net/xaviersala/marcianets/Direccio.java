@@ -8,19 +8,19 @@
  */
 public enum Direccio {
     /**
-     * En dalt és 90 graus.
+     * En dalt és 270 graus.
      */
     AMUNT(270d),
     /**
-     * L'esquerra està a 180 graus.
+     * L'esquerra està a 0 graus.
      */
     ESQUERRA(0d),
     /**
-     * Avall és a 270 graus.
+     * Avall és a 90 graus.
      */
     AVALL(90d),
     /**
-     * La dreta està a 0 graus.
+     * La dreta està a 180 graus.
      */
     DRETA(180d),
     /**
